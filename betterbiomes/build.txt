@@ -1,0 +1,3 @@
+author = boosted elemental
+version = 0.1
+displayName = betterbiomes
